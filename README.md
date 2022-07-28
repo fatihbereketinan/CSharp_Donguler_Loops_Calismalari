@@ -2,7 +2,7 @@
 While, For döngü tipleri ile alakalı örnek uygulamalar yapılmıştır.
 ***İlk örnekte iç içe for döngüsü ile çarpım tablosu konsol ekranı üzerinde yazdırılmıştır.
 ***İkinci örnekte kullanıcı login uygulaması yapılmıştır. Kullanıcıdan kullanıcı adı ve şifre alınarak sistem üzerinden giriş bilgileri kontrol edilmiştir.
-***Üçüncü örnekte konsol ekranı üzerine for dönügüsü ile aşağıdaki sayı şeması yazdırılmıştır.
+***Üçüncü örnekte konsol ekranı üzerine for döngüsü ile aşağıdaki sayı şeması yazdırılmıştır.
 
 1
 12
