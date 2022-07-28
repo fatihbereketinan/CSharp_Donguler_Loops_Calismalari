@@ -1,0 +1,13 @@
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Döngüler\SayiYazdirma\SayiYazdirma\bin\Debug\netcoreapp3.1\SayiYazdirma.exe
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Döngüler\SayiYazdirma\SayiYazdirma\bin\Debug\netcoreapp3.1\SayiYazdirma.deps.json
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Döngüler\SayiYazdirma\SayiYazdirma\bin\Debug\netcoreapp3.1\SayiYazdirma.runtimeconfig.json
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Döngüler\SayiYazdirma\SayiYazdirma\bin\Debug\netcoreapp3.1\SayiYazdirma.runtimeconfig.dev.json
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Döngüler\SayiYazdirma\SayiYazdirma\bin\Debug\netcoreapp3.1\SayiYazdirma.dll
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Döngüler\SayiYazdirma\SayiYazdirma\bin\Debug\netcoreapp3.1\SayiYazdirma.pdb
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Döngüler\SayiYazdirma\SayiYazdirma\obj\Debug\netcoreapp3.1\SayiYazdirma.csprojAssemblyReference.cache
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Döngüler\SayiYazdirma\SayiYazdirma\obj\Debug\netcoreapp3.1\SayiYazdirma.AssemblyInfoInputs.cache
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Döngüler\SayiYazdirma\SayiYazdirma\obj\Debug\netcoreapp3.1\SayiYazdirma.AssemblyInfo.cs
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Döngüler\SayiYazdirma\SayiYazdirma\obj\Debug\netcoreapp3.1\SayiYazdirma.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Döngüler\SayiYazdirma\SayiYazdirma\obj\Debug\netcoreapp3.1\SayiYazdirma.dll
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Döngüler\SayiYazdirma\SayiYazdirma\obj\Debug\netcoreapp3.1\SayiYazdirma.pdb
+C:\Users\MSİ\Desktop\C# Örnek Projelerim\Döngüler\SayiYazdirma\SayiYazdirma\obj\Debug\netcoreapp3.1\SayiYazdirma.genruntimeconfig.cache
